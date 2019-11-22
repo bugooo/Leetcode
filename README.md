@@ -15,3 +15,4 @@
 |[#3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串| 中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/longest-substring-without-repeating-characters.php) | 窗口滑动
 |[#203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|移除链表元素| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/longest-substring-without-repeating-characters.php) | 递归
 |[#35](https://leetcode-cn.com/problems/search-insert-position/)|搜索插入位置| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/search-insert-position.php) | 二分查找
+|[#100](https://leetcode-cn.com/problems/same-tree/)|相同的树| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/same-tree.php) | 递归
