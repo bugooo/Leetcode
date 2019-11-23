@@ -16,4 +16,5 @@
 |[#203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|移除链表元素| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/longest-substring-without-repeating-characters.php) | 递归
 |[#35](https://leetcode-cn.com/problems/search-insert-position/)|搜索插入位置| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/search-insert-position.php) | 二分查找
 |[#100](https://leetcode-cn.com/problems/same-tree/)|相同的树| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/same-tree.php) | 递归
-|[#804](https://leetcode-cn.com/problems/unique-morse-code-words/)|唯一摩尔斯密码词| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/unique-morse-code-words.php) | 集合
+|[#804](https://leetcode-cn.com/problems/unique-morse-code-words/)|唯一摩尔斯密码词| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/unique-morse-code-words.php) | 
+|[#349](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|两个数组的交集| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/intersection-of-two-arrays.php) | 集合
