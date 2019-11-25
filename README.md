@@ -19,4 +19,4 @@
 |[#804](https://leetcode-cn.com/problems/unique-morse-code-words/)|唯一摩尔斯密码词| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/unique-morse-code-words.php) | 
 |[#349](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|两个数组的交集| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/intersection-of-two-arrays.php) | 集合
 |[#350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集 II| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/intersection-of-two-arrays-ii.php) | 集合
-|[#347](https://leetcode-cn.com/problems/top-k-frequent-elements/)|前 K 个高频元素| 中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/top-k-frequent-elements.php) | 优先队列
+|[#347](https://leetcode-cn.com/problems/top-k-frequent-elements/)|前 K 个高频元素| 中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/top-k-frequent-elements.php) |  优先队列
