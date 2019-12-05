@@ -22,5 +22,5 @@
 |[#347](https://leetcode-cn.com/problems/top-k-frequent-elements/)|前 K 个高频元素| 中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/top-k-frequent-elements.php) |  优先队列
 |[#303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索 - 数组不可变| 简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/range-sum-query-immutable.php) |  线段树
 |[#307](https://leetcode-cn.com/problems/range-sum-query-mutable/)|区域和检索 - 数组可修改| 中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/range-sum-query-mutable.php) |  线段树
-|[#905](https://leetcode-cn.com/problems/sort-array-by-parity/)|按奇偶排序数组|简单||[php](https://github.com/bugooo/Leetcode-php/blob/master/sort-array-by-parity.php) |  双指针
+|[#905](https://leetcode-cn.com/problems/sort-array-by-parity/)|按奇偶排序数组|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/sort-array-by-parity.php) |  双指针
 |[#4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|寻找两个有序数组的中位数|困难|[php](https://github.com/bugooo/Leetcode-php/blob/master/median-of-two-sorted-arrays.php) |  双指针
