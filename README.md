@@ -24,4 +24,5 @@
 |[#307](https://leetcode-cn.com/problems/range-sum-query-mutable/)|区域和检索 - 数组可修改| 中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/range-sum-query-mutable.php) |  线段树
 |[#905](https://leetcode-cn.com/problems/sort-array-by-parity/)|按奇偶排序数组|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/sort-array-by-parity.php) |  双指针
 |[#4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|寻找两个有序数组的中位数|困难|[php](https://github.com/bugooo/Leetcode-php/blob/master/median-of-two-sorted-arrays.php) |  双指针
-|[#387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/solution/)|字符串中的第一个唯一字符|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/first-unique-character-in-a-string.php) | 哈希表
+|[#387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|字符串中的第一个唯一字符|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/first-unique-character-in-a-string.php) | 哈希表
+|[#38](https://leetcode-cn.com/problems/count-and-say/)|报数|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/count-and-say.php) | 哈希表
