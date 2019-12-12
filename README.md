@@ -27,3 +27,4 @@
 |[#387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|字符串中的第一个唯一字符|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/first-unique-character-in-a-string.php) | 哈希表
 |[#38](https://leetcode-cn.com/problems/count-and-say/)|报数|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/count-and-say.php) | 哈希表
 |[#5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/longest-palindromic-substring.php) | 动态规划
+|[#6](https://leetcode-cn.com/problems/zigzag-conversion/)|Z 字形变换|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/zigzag-conversion.php) | 
