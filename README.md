@@ -28,3 +28,4 @@
 |[#38](https://leetcode-cn.com/problems/count-and-say/)|报数|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/count-and-say.php) | 哈希表
 |[#5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/longest-palindromic-substring.php) | 动态规划
 |[#6](https://leetcode-cn.com/problems/zigzag-conversion/)|Z 字形变换|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/zigzag-conversion.php) | 
+|[#8](https://leetcode-cn.com/problems/string-to-integer-atoi/)|字符串转换整数|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/string-to-integer-atoi.php) | 
