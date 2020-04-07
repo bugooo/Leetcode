@@ -29,5 +29,6 @@
 |[#5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/longest-palindromic-substring.php) | 动态规划
 |[#6](https://leetcode-cn.com/problems/zigzag-conversion/)|Z 字形变换|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/zigzag-conversion.php) | 
 |[#8](https://leetcode-cn.com/problems/string-to-integer-atoi/)|字符串转换整数|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/string-to-integer-atoi.php) | 
-|[#146](https://leetcode-cn.com/problems/lru-cache/)|LRU缓存机制|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/lru-cache.php) | 
-|[#11](https://leetcode-cn.com/problems/container-with-most-water/)|盛最多水的容器|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/container-with-most-water.php) | 
+|[#146](https://leetcode-cn.com/problems/lru-cache/)|LRU缓存机制|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/lru-cache.php) | 哈希表+链表
+|[#11](https://leetcode-cn.com/problems/container-with-most-water/)|盛最多水的容器|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/container-with-most-water.php) | 双指针
+|[#70](https://leetcode-cn.com/problems/climbing-stairs/)|爬楼梯|[php](https://github.com/bugooo/Leetcode-php/blob/master/container-with-most-water.php) | 递归
