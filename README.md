@@ -32,3 +32,4 @@
 |[#146](https://leetcode-cn.com/problems/lru-cache/)|LRU缓存机制|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/lru-cache.php) | 哈希表+链表
 |[#11](https://leetcode-cn.com/problems/container-with-most-water/)|盛最多水的容器|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/container-with-most-water.php) | 双指针
 |[#70](https://leetcode-cn.com/problems/climbing-stairs/)|爬楼梯|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/climbing-stair.php) | 递归
+|[#15](https://leetcode-cn.com/problems/3sum/)| 三数之和|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/3sum.php) | 双指针
