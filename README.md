@@ -35,3 +35,4 @@
 |[#15](https://leetcode-cn.com/problems/3sum/)| 三数之和|中等|[php](https://github.com/bugooo/Leetcode-php/blob/master/3sum.php) | 双指针
 |[#283](https://leetcode-cn.com/problems/move-zeroes/)| 移动零|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/move-zeroes.php) | 双指针
 |[#206](https://leetcode-cn.com/problems/reverse-linked-list/)| 反转链表|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/reverse-linked-list.php) | 递归
+|[#141](https://leetcode-cn.com/problems/linked-list-cycle/)|环形链表|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/linked-list-cycle.php) | 快慢指针
