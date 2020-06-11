@@ -37,3 +37,4 @@
 |[#206](https://leetcode-cn.com/problems/reverse-linked-list/)| 反转链表|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/reverse-linked-list.php) | 递归
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)|环形链表|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/linked-list-cycle.php) | 快慢指针
 |[#189](https://leetcode-cn.com/problems/rotate-array/)|旋转数组|简单|[php](https://github.com/bugooo/Leetcode-php/blob/master/rotate-array.php) | 
+|*[#25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|K 个一组翻转链表|困难|[php](https://github.com/bugooo/Leetcode-php/blob/master/reverse-nodes-in-k-group.php) | 
