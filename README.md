@@ -34,7 +34,7 @@
 |[#11](https://leetcode-cn.com/problems/container-with-most-water/)|盛最多水的容器|中等|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/container-with-most-water.php) | 双指针
 |[#70](https://leetcode-cn.com/problems/climbing-stairs/)|爬楼梯|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/climbing-stair.php) | 递归
 |[#15](https://leetcode-cn.com/problems/3sum/)| 三数之和|中等|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/3sum.php) | 双指针
-|[#283](https://leetcode-cn.com/problems/move-zeroes/)| 移动零|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/move-zeroes.php)[go](https://github.com/bugooo/Leetcode/blob/master/Go/move-zeroes.go) | 双指针
+|[#283](https://leetcode-cn.com/problems/move-zeroes/)| 移动零|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/move-zeroes.php)&[go](https://github.com/bugooo/Leetcode/blob/master/Go/move-zeroes.go) | 双指针
 |[#206](https://leetcode-cn.com/problems/reverse-linked-list/)| 反转链表|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/reverse-linked-list.php) | 递归
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)|环形链表|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/linked-list-cycle.php) | 快慢指针
 |[#189](https://leetcode-cn.com/problems/rotate-array/)|旋转数组|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/rotate-array.php) | 
