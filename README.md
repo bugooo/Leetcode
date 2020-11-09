@@ -39,3 +39,5 @@
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)|环形链表|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/linked-list-cycle.php) | 快慢指针
 |[#189](https://leetcode-cn.com/problems/rotate-array/)|旋转数组|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/rotate-array.php) | 
 |*[#25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|K 个一组翻转链表|困难|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/reverse-nodes-in-k-group.php) | 
+|[#125](https://leetcode-cn.com/problems/valid-palindrome/)|验证回文串|简单|[php](https://github.com/bugooo/Leetcode/blob/master/PHP/125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.php) | 
+
