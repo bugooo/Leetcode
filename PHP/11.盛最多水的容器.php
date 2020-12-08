@@ -18,19 +18,19 @@ class Solution {
             return 0;
         }
         $max = 0;
-        $i = 0;
-        $j = $len - 1;
-        while($i<$j){
+        $l = 0;
+        $r = $len - 1;
+        while($l<$r){
             //
-            $area = min($height[$i],$height[$j])*($j-$i);
+            $area = min($height[$l],$height[$r])*($r-$l);
             $max = max($max,$area);
-            if($height[$i]<$height[$i+1]){
-                $i++;
-            }
-            if($height[$j-1]>$height[$j]){
-                $j--;
+            if($height[$l]<$height[$r]){
+                $l++;
+            }else{
+                $r--;
             }
         }
+        return $max;
     }
 }
 // @lc code=end
