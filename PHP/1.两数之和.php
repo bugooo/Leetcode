@@ -15,14 +15,11 @@ class Solution {
     function twoSum($nums, $target) {
         //时间复杂度O（n）空间复杂度O（n）
         $result = [];
+        $newNums = array_flip($nums);
         for($i=0;$i<count($nums);$i++){
             $nums2 = $target-$nums[$i];
-            if(in_array($nums2,$nums)){
-                $key = array_search($nums2,$nums);
-                if($key!=$i){
-                    $result= [$i,$key];
-                    break;
-                }
+            if(isset($newNums[$nums2]) && $newNums[$nums2] != $i){
+                $result= [$i,$newNums[$nums2]];   
             }
         }
         return $result;
