@@ -20,7 +20,7 @@ class Solution {
      * @return ListNode
      */
     function reverseList($head) {
-        $prev = null;
+        <!-- $prev = null;
         $cur = $head;
         while($cur!=null){
             $tmp = $cur->next;
@@ -28,7 +28,15 @@ class Solution {
             $prev = $cur;
             $cur = $tmp;
         }
-        return $prev;
+        return $prev; -->
+        //递归
+        if($head==null || $head->next==null){
+            return $head;
+        }
+        $p = self::reverseList($head->next);
+        $head->next->next = $head;
+        $head->next = null;
+        return $p;
     }
 }
 // @lc code=end
